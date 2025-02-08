@@ -1,0 +1,2 @@
+# CANSAT_NOVA
+Developing CANSAT
