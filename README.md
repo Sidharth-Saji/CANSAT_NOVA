@@ -3,7 +3,8 @@ Developing CANSAT
 
 Contributors
 
-|Name          | Branch   | Area          |
-|--------------|----------|---------------|
-| Sidharth Saji| EE       | Electronics   |
-| Nalan S      | EE       | Electronics   |
+|Name            | Branch   | Area          |
+|--------------  |----------|---------------|
+| Sidharth Saji  | EE       | Electronics   |
+| Nalan S        | EE       | Electronics   |
+| Adithya Ramesh | EE       | Electronics   |
